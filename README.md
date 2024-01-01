@@ -1,1 +1,4 @@
-[![udaySuryaP's GitHub | Stats](https://stats.quine.sh/udaySuryaP/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=udaySuryaP)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/udaySuryaP/count.svg" />
+</p>
