@@ -27,4 +27,4 @@ Here are my recent blogs:
 ➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
 <br>
 <br> -->
-![udaySuryaP's GitHub | Stats](https://stats.quine.sh/udaySuryaP/github?theme=dark) ![udaySuryaP's GitHub | Dependencies](https://stats.quine.sh/udaySuryaP/dependencies?theme=dark)
+![udaySuryaP's GitHub | Stats](https://stats.quine.sh/udaySuryaP/github?theme=dark) <div></div> ![udaySuryaP's GitHub | Dependencies](https://stats.quine.sh/udaySuryaP/dependencies?theme=dark)
