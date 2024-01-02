@@ -11,6 +11,9 @@ Passionate software engineer dedicated to making open-source collaboration acces
 
 Feel free to reach out, collaborate, or simply connect. Always eager to explore new opportunities and challenges in the Full Stack domain!
 <a href="https://iamudaysurya.bio.link/">iamudaysurya</a> <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> <a href="https://twitter.com/user">Twitter</a> <a href="https://twitter.com/user">Medium</a>
+
+<a href="">
+  <img alt="LinkedIn" height="32" width="32" src="assets/linkedin-icon.png" />
 <br> 
 <br>
 
