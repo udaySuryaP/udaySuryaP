@@ -1,4 +1,4 @@
-# Hi, I'm Uday 👋🏾 👩🏾‍💻
+# Namaste, I'm Uday 👋🏾 👩🏾‍💻
 
 Passionate software engineer dedicated to making open-source collaboration accessible, crafting technology that uplifts others, and fostering vibrant communities. Thriving in the full-stack realm with 1+ years of experience in JavaScript (React) and Python.
 
@@ -7,12 +7,12 @@ Passionate software engineer dedicated to making open-source collaboration acces
   <img src="https://profile-counter.glitch.me/udaySuryaP/count.svg" />
 </p>
 
-## Find me around the web 🌎
+## 🌐 Connect with Me:
 
-- Your future buddy to discuss Full Stack related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar). or  <a href="https://iamudaysurya.bio.link/">iamudaysurya</a>
-- Your future life savior :stuck_out_tongue: on [Medium]().
-- Sharing updates on <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> 💼
-- And of course GitHub you're already on (Recursion).
+Feel free to reach out, collaborate, or simply connect. Always eager to explore new opportunities and challenges in the Full Stack domain!
+<a href="https://iamudaysurya.bio.link/">iamudaysurya</a> <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> <a href="https://twitter.com/user">Twitter</a> <a href="https://twitter.com/user">Medium</a>
+<br> 
+<br>
 
 ## 📕 Latest Blog Posts
 Here are my recent blogs:
