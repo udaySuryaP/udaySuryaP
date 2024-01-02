@@ -9,12 +9,9 @@ Passionate software engineer dedicated to making open-source collaboration acces
 
 ## 🌐 Connect with Me:
 
-Feel free to reach out, collaborate, or simply connect. Always eager to explore new opportunities and challenges in the Full Stack domain!
-<a href="https://iamudaysurya.bio.link/">iamudaysurya</a> <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> <a href="https://twitter.com/user">Twitter</a> <a href="https://twitter.com/user">Medium</a>
-
--Your future buddy to discuss Full Stack related things and tech in general on  <a href="https://twitter.com/user">Twitter</a> or <a href="https://iamudaysurya.bio.link/">iamudaysurya</a> 📹 ✍🏾
--Your future life savior 😛 on <a href="https://twitter.com/user">Medium</a>
--Sharing updates on <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> 💼
+-Your future buddy to discuss Full Stack related things and tech in general on  <a href="https://twitter.com/user">Twitter</a> or <a href="https://iamudaysurya.bio.link/">iamudaysurya</a> 📹 ✍🏾 <br>
+-Your future life savior 😛 on <a href="https://twitter.com/user">Medium</a> <br>
+-Sharing updates on <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> 💼 <br>
 <br> 
 <br>
 
