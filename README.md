@@ -9,7 +9,7 @@ Passionate software engineer dedicated to making open-source collaboration acces
 
 ## Find me around the web 🌎
 
- Your future buddy to discuss Full Stack related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar). or  <a href="https://iamudaysurya.bio.link/">iamudaysurya</a>
- Your future life savior :stuck_out_tongue: on [Medium]().
- Sharing updates on <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> 💼
- And of course GitHub you're already on (Recursion).
+- Your future buddy to discuss Full Stack related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar). or  <a href="https://iamudaysurya.bio.link/">iamudaysurya</a>
+- Your future life savior :stuck_out_tongue: on [Medium]().
+- Sharing updates on <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> 💼
+- And of course GitHub you're already on (Recursion).
