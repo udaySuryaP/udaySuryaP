@@ -27,3 +27,4 @@ Here are my recent blogs:
 ➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
 <br>
 <br> -->
+[![udaySuryaP's GitHub | Languages Over Time](https://stats.quine.sh/udaySuryaP/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=udaySuryaP)
