@@ -1,6 +1,6 @@
 # Namaste, I'm Uday 👋🏾 👩🏾‍💻
 
-Passionate software engineer dedicated to making open-source collaboration accessible, crafting technology that uplifts others, and fostering vibrant communities. Thriving in the full-stack realm with 1+ years of experience in JavaScript (React) and Python.
+As a creative web designer and developer, I bridge the gap between pixels and purpose. I craft meaningful, user-friendly web experiences fueled by both technical expertise and artistic vision. With a passion for open-source collaboration and community building, I strive to create technology that uplifts and empowers others. In my 1+ years of experience with JavaScript (React) and Python, I thrive in the full-stack realm, constantly seeking new ways to learn, grow, and make a positive impact on the world, one line of code and pixel at a time.
 
 <p align="center"> 
   Visitor count<br><br>
