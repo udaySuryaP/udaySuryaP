@@ -15,12 +15,12 @@ As a creative web designer and developer, I bridge the gap between pixels and pu
 <br> 
 <br>
 
-<!--## 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 Here are my recent blogs:
 
- ///BLOGS_START///
-- [Navigating the Frontiers of NLP: Insights from Leading Tech Giants](https://www.dhruvawasthi.com/post/navigating-the-frontiers-of-nlp-insights-from-leading-tech-giants)
-- [Mastering Python Docstrings: Your Guide to Better Code Documentation](https://www.dhruvawasthi.com/post/mastering-python-docstrings-your-guide-to-better-code-documentation)
+ <!--///BLOGS_START///-->
+- [Is Full Stack Development Dead in 2024?](https://medium.com/@uday.surya.prasanth23/is-full-stack-development-dead-in-2024-c92db920f02d)
+<!-- - [Mastering Python Docstrings: Your Guide to Better Code Documentation](https://www.dhruvawasthi.com/post/mastering-python-docstrings-your-guide-to-better-code-documentation)
 - [A Deep Dive into pip: The Python Package Manager](https://www.dhruvawasthi.com/post/a-deep-dive-into-pip-the-python-package-manager)
 - [Installing Anaconda on Linux: A Comprehensive 10-Step Guide](https://www.dhruvawasthi.com/post/installing-anaconda-on-linux-a-comprehensive-10-step-guide)
 ///BLOGS_END///
