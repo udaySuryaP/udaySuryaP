@@ -10,7 +10,7 @@ As a creative web designer and developer, I bridge the gap between pixels and pu
 ## 🌐 Connect with Me:
 
 - Your future buddy to discuss Full Stack related things and tech in general on  <a href="https://twitter.com/user">Twitter</a> or <a href="https://iamudaysurya.bio.link/">iamudaysurya</a> 📹 ✍🏾 <br>
-- Your future life savior 😛 on <a href="https://twitter.com/user">Medium</a> <br>
+- Your future life savior 😛 on <a href="https://medium.com/@uday.surya.prasanth23">Medium</a> <br>
 - Sharing updates on <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> 💼 <br>
 <br> 
 <br>
