@@ -23,8 +23,8 @@ Here are my recent blogs:
 <!-- - [Mastering Python Docstrings: Your Guide to Better Code Documentation](https://www.dhruvawasthi.com/post/mastering-python-docstrings-your-guide-to-better-code-documentation)
 - [A Deep Dive into pip: The Python Package Manager](https://www.dhruvawasthi.com/post/a-deep-dive-into-pip-the-python-package-manager)
 - [Installing Anaconda on Linux: A Comprehensive 10-Step Guide](https://www.dhruvawasthi.com/post/installing-anaconda-on-linux-a-comprehensive-10-step-guide)
-///BLOGS_END///
-➡️ [More blog posts...](https://www.dhruvawasthi.com/blog)
+///BLOGS_END/// -->
+➡️ [More blog posts...](https://medium.com/@uday.surya.prasanth23)
 <br>
-<br> -->
+<br> 
 ![udaySuryaP's GitHub | Stats](https://stats.quine.sh/udaySuryaP/github?theme=dark) ![udaySuryaP's GitHub | Dependencies](https://stats.quine.sh/udaySuryaP/dependencies?theme=dark)
