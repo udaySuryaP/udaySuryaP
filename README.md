@@ -19,8 +19,9 @@ As a creative web designer and developer, I bridge the gap between pixels and pu
 Here are my recent blogs:
 
  <!--///BLOGS_START///-->
+- [Your AI Cheat Sheet: How to Hack Your Way to a 6-Figure Tech Career in 2024](https://medium.com/@uday.surya.prasanth23/your-ai-cheat-sheet-how-to-hack-your-way-to-a-6-figure-tech-career-in-2024-f23c60575594)
 - [Is Full Stack Development Dead in 2024?](https://medium.com/@uday.surya.prasanth23/is-full-stack-development-dead-in-2024-c92db920f02d)
-<!-- - [Mastering Python Docstrings: Your Guide to Better Code Documentation](https://www.dhruvawasthi.com/post/mastering-python-docstrings-your-guide-to-better-code-documentation)
+<!-- - 
 - [A Deep Dive into pip: The Python Package Manager](https://www.dhruvawasthi.com/post/a-deep-dive-into-pip-the-python-package-manager)
 - [Installing Anaconda on Linux: A Comprehensive 10-Step Guide](https://www.dhruvawasthi.com/post/installing-anaconda-on-linux-a-comprehensive-10-step-guide)
 ///BLOGS_END/// -->
