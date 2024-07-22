@@ -12,7 +12,7 @@ Additionally, I'm a Beta Microsoft Learn Student Ambassador, promoting technical
 </p> -->
 ## 🌐 Connect with Me:
 
-- Your future buddy to discuss Full Stack related things and tech in general on  <a href="https://twitter.com/udaySuryaP">Twitter</a> or <a href="https://iamudaysurya.bio.link/">iamudaysurya</a> 📹 ✍🏾 <br>
+- Your future buddy to discuss Full Stack related things and tech in general on  <a href="https://twitter.com/udaySuryaP">Twitter</a>📹 ✍🏾 <br>
 - Your future life savior 😛 on <a href="https://medium.com/@uday.surya.prasanth23">Medium</a> <br>
 - Sharing updates on <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> 💼 <br>
 <br> 
