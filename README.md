@@ -10,7 +10,6 @@ Additionally, I'm a Beta Microsoft Learn Student Ambassador, promoting technical
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/udaySuryaP/count.svg" />
 </p> -->
-<br>
 ## 🌐 Connect with Me:
 
 - Sharing updates on <a href="https://www.linkedin.com/in/uday-surya-p/">LinkedIn</a> 💼 <br>
