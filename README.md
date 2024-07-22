@@ -1,12 +1,15 @@
 # Namaste, I'm Uday 👋🏾 👩🏾‍💻
 
-As a creative web designer and developer, I bridge the gap between pixels and purpose. I craft meaningful, user-friendly web experiences fueled by both technical expertise and artistic vision. With a passion for open-source collaboration and community building, I strive to create technology that uplifts and empowers others. In my 1+ years of experience with JavaScript (React) and Python, I thrive in the full-stack realm, constantly seeking new ways to learn, grow, and make a positive impact on the world, one line of code and pixel at a time.
+I'm a driven computer science student (B.Tech, College of Engineering and Management Punnapra) with a strong foundation in Java programming and a passion for full-stack development.  Leveraging the MERN stack (MongoDB, Express.js, React.js, Node.js), I'm building my skills to tackle complex problems and design innovative software solutions.
 
-<p align="center"> 
+As a quick learner who thrives in collaborative environments, I actively seek opportunities to bridge the gap between theoretical knowledge and real-world applications.  My strong foundation in data structures and algorithms further enhances my problem-solving abilities.
+
+Additionally, I'm a Beta Microsoft Learn Student Ambassador, promoting technical learning and development within the student community.
+
+<!-- <p align="center"> 
   Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/udaySuryaP/count.svg" />
-</p>
-
+</p> -->
 ## 🌐 Connect with Me:
 
 - Your future buddy to discuss Full Stack related things and tech in general on  <a href="https://twitter.com/udaySuryaP">Twitter</a> or <a href="https://iamudaysurya.bio.link/">iamudaysurya</a> 📹 ✍🏾 <br>
