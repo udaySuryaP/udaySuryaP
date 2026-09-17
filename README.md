@@ -1,33 +1,23 @@
 # Uday Surya P
 
-I build software from the product problem backward.
+Product-focused developer with a background in UI/UX, building full-stack
+and AI-powered software.
 
-I started in UI/UX and product design, then moved deeper into engineering to work across the full product — from flows and interfaces to backend systems, data, deployment and applied AI.
+Currently focused on product engineering, software fundamentals and applied AI.
 
-## Selected work
+### Selected work
 
-### [ModuleWyse](https://github.com/udaySuryaP/modulewyse)
-Syllabus-aware AI study platform with source-grounded answers, citations, authentication, persistent chat and rate limiting.
+- **ModuleWyse** — deployed syllabus-aware AI study platform with source-backed answers.
+- **Memoid** — source-aware context infrastructure for AI-native software projects.
+- **Composio Research Assessment** — research and integration-readiness pipeline across 100 apps.
+- **Audio Track Catalogue** — full-stack FastAPI + Next.js assessment project.
 
-**Next.js · TypeScript · PostgreSQL · Supabase · OpenAI · Redis**
+### Stack
 
-### [Memoid](https://github.com/udaySuryaP/memoid)
-Source-aware context infrastructure for AI-native software projects, focused on durable project knowledge, provenance and controlled context updates.
+TypeScript · JavaScript · Python · React · Next.js · FastAPI · PostgreSQL ·
+Supabase · Redis · Docker · Git
 
-**TypeScript · Next.js · Fastify · PostgreSQL · Docker · MCP**
+### Elsewhere
 
-### [Composio Research Assessment](https://github.com/udaySuryaP/composio-research-assessment)
-Python-based research pipeline for evaluating API and integration readiness across 100 applications.
-
-### [Full-Stack Assessment](https://github.com/udaySuryaP/fullstack-assessment)
-Paginated music catalogue built with FastAPI and Next.js as a full-stack technical assessment.
-
-## Stack
-
-TypeScript · Python · Next.js · React · FastAPI · PostgreSQL · Supabase · Redis · Docker · Git
-
-## Current direction
-
-Full-Stack Product Engineering · Backend Systems · Applied AI
-
-[Portfolio](https://udaysuryap.framer.website/) · [LinkedIn](https://www.linkedin.com/in/udaysuryap/)
+[Portfolio](https://udaysuryap.framer.website/) ·
+[LinkedIn](https://www.linkedin.com/in/udaysuryap/)
