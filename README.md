@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GitHub Banner.jpg" alt="Uday Surya P" width="100%" />
+  <img src="GitHub Banner.jpg" alt="From product thinking to production systems" width="100%" />
 </p>
 
 # Uday Surya P
@@ -8,7 +8,7 @@
 
 I like working where **product thinking and engineering meet** — turning rough ideas into clear interfaces, sensible systems, and software that holds up beyond the first demo.
 
-My background started in product and UI/UX design. These days I'm spending more of my time on full-stack systems, backend engineering, and applied AI.
+My background started in product and UI/UX design. Now I work increasingly across full-stack systems, backend engineering, and applied AI.
 
 ---
 
@@ -35,11 +35,10 @@ My background started in product and UI/UX design. These days I'm spending more 
 
 ### Right now
 
-Building deeper foundations in **full-stack product engineering, backend systems, and applied AI**.
+Deepening my work in **full-stack product engineering, backend systems, and applied AI**.
 
 I care about products that are simple on the surface and deliberate underneath — clear flows, good data models, sensible boundaries, and AI that has a reason to be there.
 
 ---
 
-[Portfolio](https://udaysuryap.framer.website/) ·
-[LinkedIn](https://www.linkedin.com/in/udaysuryap/)
+[Portfolio](https://udaysuryap.framer.website/) · [LinkedIn](https://www.linkedin.com/in/udaysuryap/)
