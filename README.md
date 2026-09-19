@@ -1,23 +1,25 @@
 # Uday Surya P
 
-Product-focused developer with a background in UI/UX, building full-stack
-and AI-powered software.
+**I build software from the product problem backward.**
 
-Currently focused on product engineering, software fundamentals and applied AI.
+My background is in product and UI/UX design, and I now work across full-stack development, backend systems and applied AI.
 
-### Selected work
+I like building things where **product thinking, system design and implementation stay connected** — not treating them as separate jobs.
 
-- **ModuleWyse** — deployed syllabus-aware AI study platform with source-backed answers.
-- **Memoid** — source-aware context infrastructure for AI-native software projects.
-- **Composio Research Assessment** — research and integration-readiness pipeline across 100 apps.
-- **Audio Track Catalogue** — full-stack FastAPI + Next.js assessment project.
+### What I care about
 
-### Stack
+- turning rough ideas into clear product systems
+- making complex software feel simple to use
+- thoughtful APIs, data models and backend boundaries
+- AI features grounded in real context, sources and workflows
+- shipping products that feel intentional, not assembled
 
-TypeScript · JavaScript · Python · React · Next.js · FastAPI · PostgreSQL ·
-Supabase · Redis · Docker · Git
+### Currently
 
-### Elsewhere
+Deepening my work in **TypeScript, Python, backend engineering and applied AI**, while continuing to build and ship end-to-end products.
 
-[Portfolio](https://udaysuryap.framer.website/) ·
-[LinkedIn](https://www.linkedin.com/in/udaysuryap/)
+`TypeScript` · `Python` · `Next.js` · `FastAPI` · `PostgreSQL` · `Docker`
+
+---
+
+[Portfolio](https://udaysuryap.framer.website/) · [LinkedIn](https://www.linkedin.com/in/udaysuryap/)
